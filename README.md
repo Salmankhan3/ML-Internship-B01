@@ -74,22 +74,34 @@ https://github.com/firstcontributions/first-contributions/
 ![Push branch](screenshots/Screenshot%20(119).png)
 
 ## Progress Table
+## Progress Table
+
 <table>
-<thead>
-<tr>
-<th>Week</th>
-<th>Task</th>
-<th>Progress</th>
-</tr>
-</thead>
-<tr>
-<tbody>
-<tr>
-<td>01</td>
-<td>Git and github basic</td>
-<td>Completed</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Task</th>
+      <th>Progress</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Git and GitHub Basics</td>
+      <td>![Completed](https://img.shields.io/badge/Completed-green)</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>ML Basics Exercises</td>
+      <td>![In Progress](https://img.shields.io/badge/In%20Progress-yellow)</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Hands-on ML Project</td>
+      <td>![Pending](https://img.shields.io/badge/Pending-red)</td>
+    </tr>
+  </tbody>
 </table>
+
 
 
