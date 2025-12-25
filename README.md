@@ -18,7 +18,8 @@ The goal of this repository is to:
 ## Table of content
 -[Project Description](#Project-Description)
 -[Command Used](#Command-Used)
-- Screenhsots(#Screenshots)
+-[Screenshots](#Screenshots)
+-[progress-table](#Progress-Table)
 
 ## Project Description
 This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
@@ -68,5 +69,10 @@ https://github.com/firstcontributions/first-contributions/
 
 7) Push `my-branch`  
 ![Push branch](screenshots/Screenshot%20(119).png)
+
+## Progress Table
+| Week | Task | Status |
+|------|-------|-------|
+| 1    | Git & GitHub Practice          | Completed |
 
 
