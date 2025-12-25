@@ -49,6 +49,7 @@ git branch -b 'my-branch'
 git status
 git add Contributors.md
 git commit "add my name to contributer list" ```
+
 ## Screenshots
 
 
@@ -86,7 +87,7 @@ https://github.com/firstcontributions/first-contributions/
     <tr>
       <td>01</td>
       <td>Git and GitHub Basics</td>
-      <td>![Completed](https://img.shields.io/badge/Completed-green)</td>
+      <td>![Completed]</td>
     </tr>
   </tbody>
 </table>
