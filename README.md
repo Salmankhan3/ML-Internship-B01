@@ -97,7 +97,7 @@ https://github.com/firstcontributions/first-contributions/
 
 ## External Resources
 
-<a href="#https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository">Adding-license-to-github repo</a>
+<a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository">Adding-license-to-github repo</a>
 
 <a href="https://shields.io/badges">Adding-badges-in-github-repo</a>
 
