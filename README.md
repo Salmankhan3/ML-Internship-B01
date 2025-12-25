@@ -105,7 +105,7 @@ https://github.com/firstcontributions/first-contributions/
 <a href="https://shields.io/badges">Adding-badges-in-github-repo</a>
 
 ## Lincense Information
-MIT License <br>
+MIT License  <br>
 Read more ![License](LICENSE)
 Copyright (c) 2025 Salman Khan
 
