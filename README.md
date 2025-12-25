@@ -48,7 +48,9 @@ cd first-contributions
 git branch -b 'my-branch'
 git status
 git add Contributors.md
-git commit "add my name to contributer list" ```
+git commit "add my name to contributer list"
+
+```
 
 ## Screenshots
 
