@@ -32,7 +32,7 @@ The goal of this repository is to:
 
 ## Command Used
 
-```git
+```git 
 git clone https://github.com/Salmankhan3/ML-Internship-B01.git
 git add learning.txt
 git commit -m ' Add Learning Log'
@@ -48,7 +48,7 @@ cd first-contributions
 git branch -b 'my-branch'
 git status
 git add Contributors.md
-git commit "add my name to contributer list" '''
+git commit "add my name to contributer list" ```
 ## Screenshots
 
 
