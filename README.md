@@ -28,6 +28,13 @@ The goal of this repository is to:
 
 ## Command Used
 
-* \\\ git init \\\
+## JavaScript Example
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet("Alice"));
 
   
