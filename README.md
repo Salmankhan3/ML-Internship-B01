@@ -71,8 +71,19 @@ https://github.com/firstcontributions/first-contributions/
 ![Push branch](screenshots/Screenshot%20(119).png)
 
 ## Progress Table
-| Week | Task | Status |
-|------|-------|-------|
-| 1    | Git & GitHub Practice          | Completed |
+<Table>
+<thead>
+<tr>
+<th>Week</th>
+<th>Task</th>
+<th>Progress</th>
+</tr>
+<tr>
+<th>01</th>
+<th>Git and github basic</th>
+<th>Completed</th>
+</tr>
+</thead>
+</Table>
 
 
