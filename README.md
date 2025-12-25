@@ -20,7 +20,8 @@ The goal of this repository is to:
 -[Command Used](#Command-Used) <br>
 -[Screenshots](#Screenshots) <br>
 -[progress-table](#Progress-Table) <br>
--[External resources](#External-Resources)
+-[External resources](#External-Resources) <br>
+-[License Info]($License-Information)
 
 ## Project Description
 This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
@@ -50,7 +51,7 @@ git add Contributors.md
 git commit "add my name to contributer list"
 
 
-##Screenshots
+## Screenshots
 
 
 ## Fork Repo Task
@@ -91,7 +92,10 @@ https://github.com/firstcontributions/first-contributions/
     </tr>
   </tbody>
 </table>
-##External Resources
+## External Resources
 ![Adding license to github repo](#https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 ![Adding badges in github repo](#https://shields.io/badges)
+
+## Lincense Information
+
 
