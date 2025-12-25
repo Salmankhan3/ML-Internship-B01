@@ -28,6 +28,6 @@ The goal of this repository is to:
 
 ## Command Used
 
-* /// git init ///
+* \\\ git init \\\
 
   
