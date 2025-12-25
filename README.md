@@ -15,7 +15,7 @@ The goal of this repository is to:
 - Track internship progress
 - Build strong documentation habits
 - Prepare for real-world ML projects
-## Table of content
+## Table of contents
 -[Project Description](#Project-Description)
 -[Command Used](#Command-Used)
 -[Screenshots](#Screenshots)
@@ -48,7 +48,10 @@ git status
 git add Contributors.md
 git commit "add my name to contributer list"
 
+
 ##Screenshots
+
+
 ## Fork Repo Task
 
 1) Fork the public repository  
@@ -71,7 +74,7 @@ https://github.com/firstcontributions/first-contributions/
 ![Push branch](screenshots/Screenshot%20(119).png)
 
 ## Progress Table
-<Table>
+<table>
 <thead>
 <tr>
 <th>Week</th>
@@ -87,6 +90,6 @@ https://github.com/firstcontributions/first-contributions/
 <td>Completed</td>
 </tr>
 </tbody>
-</Table>
+</table>
 
 
