@@ -1,4 +1,4 @@
-           ##                  Intern Details
+                ## Intern Details
 
 **Name:** Salman Khan  
 **Batch Number:** B01  
