@@ -17,7 +17,8 @@ The goal of this repository is to:
 - Prepare for real-world ML projects
 ## Table of content
 -[Project Description](#Project Description)
--[Command Used]
+-[Command Used](#Command Used)
+- Screenhsots(#Screenshots)
 
 ## Project Description
 This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
@@ -28,13 +29,43 @@ The goal of this repository is to:
 
 ## Command Used
 
-## JavaScript Example
+```git
+* git clone https://github.com/Salmankhan3/ML-Internship-B01.git
+* git add learning.txt
+* git commit -m ' Add Learning Log'
+* git puch origin main
+* git branch -b "week1-practice"
+* git commit -m "changes to ReadMe.md"
+* git checkout  main
+* git push orgin 'week1-practice'
+* git merge main
+* git branch -d week1-practice
+* git clone https://github.com/Salmankhan3/first-contributions.git
+* cd first-contributions
+* git branch -b 'my-branch'
+* git status
+* git add Contributors.md
+* git commit "add my name to contributer list"
+##Screenshots
+## Fork Repo Task
 
-```javascript
-function greet(name) {
-    return `Hello, ${name}!`;
-}
+1) Fork the public repository  
+https://github.com/firstcontributions/first-contributions/
 
-console.log(greet("Alice"));
+![Fork repo](screenshots/Screenshot%20(114).png)
 
-  
+2) Clone it to my local PC  
+
+3) Create a new branch `my-branch`  
+![Create branch](screenshots/Screenshot%20(118).png)
+
+4) Add my name and GitHub profile to `Contributions.md`  
+
+5) Add `Contributions.md`  
+
+6) Commit changes  
+
+7) Push `my-branch`  
+![Push branch](screenshots/Screenshot%20(119).png)
+
+
