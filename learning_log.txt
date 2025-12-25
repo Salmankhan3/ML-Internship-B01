@@ -1,10 +1,5 @@
-## Intern Details
-
-**Name:** Salman Khan  
-**Batch Number:** B01  
-**Internship Start Date:** 20 Dec 2025  
-
----
+## Branchig and merging Task
+Learn about branching in git. how to create branch,change to another branch rename branch delete branch and merge branch. 
 
 ## Fork Repo Task
 
@@ -26,3 +21,7 @@ https://github.com/firstcontributions/first-contributions/
 
 7) Push `my-branch`  
 ![Push branch](screenshots/Screenshot%20(119).png)
+
+## README.md Mastery
+Create a well formated README file that contain badges, Table of content, table for weekly progress. images,  and external links.
+
