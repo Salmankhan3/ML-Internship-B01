@@ -73,7 +73,9 @@ https://github.com/firstcontributions/first-contributions/
 
 7) Push `my-branch`  
 ![Push branch](screenshots/Screenshot%20(119).png)
+
 ## Progress Table
+
 <table>
   <thead>
     <tr>
