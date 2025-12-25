@@ -78,12 +78,15 @@ https://github.com/firstcontributions/first-contributions/
 <th>Task</th>
 <th>Progress</th>
 </tr>
-<tr>
-<th>01</th>
-<th>Git and github basic</th>
-<th>Completed</th>
-</tr>
 </thead>
+<tr>
+<tbody>
+<tr>
+<td>01</td>
+<td>Git and github basic</td>
+<td>Completed</td>
+</tr>
+</tbody>
 </Table>
 
 
