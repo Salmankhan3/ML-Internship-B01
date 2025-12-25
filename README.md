@@ -97,9 +97,9 @@ https://github.com/firstcontributions/first-contributions/
 
 ## External Resources
 
-![Adding-license-to-github repo](#https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+<a href="#https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository">Adding-license-to-github repo</a>
 
-![Adding-badges-in-github-repo](#https://shields.io/badges)
+<a href="https://shields.io/badges">Adding-badges-in-github-repo</a>
 
 ## Lincense Information
 MIT License
