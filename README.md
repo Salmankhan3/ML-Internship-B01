@@ -74,7 +74,6 @@ https://github.com/firstcontributions/first-contributions/
 7) Push `my-branch`  
 ![Push branch](screenshots/Screenshot%20(119).png)
 ## Progress Table
-
 <table>
   <thead>
     <tr>
@@ -87,7 +86,7 @@ https://github.com/firstcontributions/first-contributions/
     <tr>
       <td>01</td>
       <td>Git and GitHub Basics</td>
-      <td>![Completed]</td>
+      <td><img src="https://img.shields.io/badge/Completed-green" alt="Completed"></td>
     </tr>
   </tbody>
 </table>
