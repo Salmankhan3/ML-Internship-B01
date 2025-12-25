@@ -16,10 +16,11 @@ The goal of this repository is to:
 - Build strong documentation habits
 - Prepare for real-world ML projects
 ## Table of contents
--[Project Description](#Project-Description)
--[Command Used](#Command-Used)
--[Screenshots](#Screenshots)
--[progress-table](#Progress-Table)
+-[Project Description](#Project-Description) <br>
+-[Command Used](#Command-Used) <br>
+-[Screenshots](#Screenshots) <br>
+-[progress-table](#Progress-Table) <br>
+-[External resources](#External-Resources)
 
 ## Project Description
 This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
@@ -90,6 +91,7 @@ https://github.com/firstcontributions/first-contributions/
     </tr>
   </tbody>
 </table>
-
-
+##External Resources
+![Adding license to github repo](#https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+![Adding badges in github repo](#https://shields.io/badges)
 
