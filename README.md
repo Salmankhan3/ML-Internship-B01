@@ -9,8 +9,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/SalmanKhan3/ML-Internship-B01)
 
-## Prject Description
-This repository Document my *Mahone Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
+## Project Description
+This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
 The goal of this repository is to:
 - Track internship progress
 - Build strong documentation habits
@@ -21,7 +21,7 @@ The goal of this repository is to:
 -[Screenshots](#Screenshots) <br>
 -[progress-table](#Progress-Table) <br>
 -[External resources](#External-Resources) <br>
--[License Info]($License-Information)
+-[License Info](#License-Information)
 
 ## Project Description
 This repository Document my *Machine Learning B01* Journey.It contains weekly tasks, GitHub practice activities, learning logs, screenshots, and hands-on exercises related to Git, GitHub, and ML fundamentals.I will update the repo as I proceed further.
@@ -97,5 +97,26 @@ https://github.com/firstcontributions/first-contributions/
 ![Adding badges in github repo](#https://shields.io/badges)
 
 ## Lincense Information
+MIT License
+
+Copyright (c) 2025 Salman Khan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
