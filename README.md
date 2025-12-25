@@ -16,8 +16,8 @@ The goal of this repository is to:
 - Build strong documentation habits
 - Prepare for real-world ML projects
 ## Table of content
--[Project Description](#Project Description)
--[Command Used](#Command Used)
+-[Project Description](#Project-Description)
+-[Command Used](#Command-Used)
 - Screenhsots(#Screenshots)
 
 ## Project Description
@@ -30,22 +30,23 @@ The goal of this repository is to:
 ## Command Used
 
 ```git
-* git clone https://github.com/Salmankhan3/ML-Internship-B01.git
-* git add learning.txt
-* git commit -m ' Add Learning Log'
-* git puch origin main
-* git branch -b "week1-practice"
-* git commit -m "changes to ReadMe.md"
-* git checkout  main
-* git push orgin 'week1-practice'
-* git merge main
-* git branch -d week1-practice
-* git clone https://github.com/Salmankhan3/first-contributions.git
-* cd first-contributions
-* git branch -b 'my-branch'
-* git status
-* git add Contributors.md
-* git commit "add my name to contributer list"
+git clone https://github.com/Salmankhan3/ML-Internship-B01.git
+git add learning.txt
+git commit -m ' Add Learning Log'
+git puch origin main
+git branch -b "week1-practice"
+git commit -m "changes to ReadMe.md"
+git checkout  main
+git push orgin 'week1-practice'
+git merge main
+git branch -d week1-practice
+git clone https://github.com/Salmankhan3/first-contributions.git
+cd first-contributions
+git branch -b 'my-branch'
+git status
+git add Contributors.md
+git commit "add my name to contributer list"
+
 ##Screenshots
 ## Fork Repo Task
 
