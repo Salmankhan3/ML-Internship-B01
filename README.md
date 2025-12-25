@@ -3,6 +3,8 @@
 **Name:** Salman Khan  
 **Batch Number:** B01  
 **Internship Start Date:** 20 Dec 2025  
+
+
 ![GitHub stars](https://img.shields.io/github/stars/SalmanKhan3/ML-Internship-B01?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SalmanKhan3/ML-Internship-B01?style=social)
 ![Intership](https://img.shields.io/badge/ML%20Internship-B01-red)
