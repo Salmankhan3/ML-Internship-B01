@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/SalmanKhan3/ML-Internship-B01?style=social)
 ![Intership](https://img.shields.io/badge/ML%20Internship-B01-red)
 ![MIT licence](https://img.shields.io/badge/License%20%20-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-inactive-success)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/SalmanKhan3/ML-Internship-B01)
 
 ## Project Description
@@ -106,7 +106,7 @@ https://github.com/firstcontributions/first-contributions/
 
 ## Lincense Information
 MIT License  <br>
-Read more ![License](LICENSE)
+Read more ![License](LICENSE.md)
 Copyright (c) 2025 Salman Khan
 
 
