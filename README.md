@@ -106,7 +106,7 @@ https://github.com/firstcontributions/first-contributions/
 
 ## Lincense Information
 MIT License  <br>
-Read more ![License](LICENSE.md)
+Read more ![License](LICENSE)
 Copyright (c) 2025 Salman Khan
 
 
